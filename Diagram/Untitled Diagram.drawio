@@ -1,9 +1,75 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="dSg3ptovNE8VeZ7gv_Go">
-    <mxGraphModel>
+    <mxGraphModel dx="1167" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1EH5Wc2Wvx4Wh0thCUqr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1EH5Wc2Wvx4Wh0thCUqr-1" target="1EH5Wc2Wvx4Wh0thCUqr-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1EH5Wc2Wvx4Wh0thCUqr-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1EH5Wc2Wvx4Wh0thCUqr-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1EH5Wc2Wvx4Wh0thCUqr-7" target="1EH5Wc2Wvx4Wh0thCUqr-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1EH5Wc2Wvx4Wh0thCUqr-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1EH5Wc2Wvx4Wh0thCUqr-7" target="1EH5Wc2Wvx4Wh0thCUqr-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1EH5Wc2Wvx4Wh0thCUqr-7" value="Login/Register" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1EH5Wc2Wvx4Wh0thCUqr-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1EH5Wc2Wvx4Wh0thCUqr-13" target="1EH5Wc2Wvx4Wh0thCUqr-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1EH5Wc2Wvx4Wh0thCUqr-13" value="Show Bookings" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1EH5Wc2Wvx4Wh0thCUqr-15" value="to book" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1EH5Wc2Wvx4Wh0thCUqr-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1EH5Wc2Wvx4Wh0thCUqr-17" target="1EH5Wc2Wvx4Wh0thCUqr-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1EH5Wc2Wvx4Wh0thCUqr-17" value="Show user Bookeds" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1EH5Wc2Wvx4Wh0thCUqr-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1EH5Wc2Wvx4Wh0thCUqr-19" target="1EH5Wc2Wvx4Wh0thCUqr-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1EH5Wc2Wvx4Wh0thCUqr-19" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="460" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1EH5Wc2Wvx4Wh0thCUqr-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1EH5Wc2Wvx4Wh0thCUqr-22" target="1EH5Wc2Wvx4Wh0thCUqr-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1EH5Wc2Wvx4Wh0thCUqr-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1EH5Wc2Wvx4Wh0thCUqr-22" target="1EH5Wc2Wvx4Wh0thCUqr-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1EH5Wc2Wvx4Wh0thCUqr-22" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1EH5Wc2Wvx4Wh0thCUqr-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1EH5Wc2Wvx4Wh0thCUqr-24" target="1EH5Wc2Wvx4Wh0thCUqr-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1EH5Wc2Wvx4Wh0thCUqr-24" value="Add Booking" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1EH5Wc2Wvx4Wh0thCUqr-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1EH5Wc2Wvx4Wh0thCUqr-28" target="1EH5Wc2Wvx4Wh0thCUqr-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1EH5Wc2Wvx4Wh0thCUqr-28" value="Check all Booked" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1EH5Wc2Wvx4Wh0thCUqr-30" value="Edit Booking" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1EH5Wc2Wvx4Wh0thCUqr-32" value="Delete Booked" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1EH5Wc2Wvx4Wh0thCUqr-34" value="Delete Booked" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
